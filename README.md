@@ -1,6 +1,6 @@
 # [NeuriPS-22] Label-Aware Global Consistency for Multi-Label Learning with Single Positive Labels
 
-Code for the paper [Label-Aware Global Consistency for Multi-Label Learning with Single Positive Labels](http://www.xiemk.pro/publication/neurips22-lac.pdf) (NeurIPS 2022). 
+The implementation for the paper [Label-Aware Global Consistency for Multi-Label Learning with Single Positive Labels](http://www.xiemk.pro/publication/neurips22-lac.pdf) (NeurIPS 2022). 
 
 ## Preparing Data 
 
