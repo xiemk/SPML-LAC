@@ -2,6 +2,8 @@
 
 The implementation for the paper [Label-Aware Global Consistency for Multi-Label Learning with Single Positive Labels](http://www.xiemk.pro/publication/neurips22-lac.pdf) (NeurIPS 2022). 
 
+See much more related works in [Awesome Weakly Supervised Multi-Label Learning!](https://github.com/milkxie/SPML-LAC) 
+
 ## Preparing Data 
 
 See the `README.md` file in the `data` directory for instructions on downloading and preparing the datasets. (The detailed procedures follow [Multi-Label Learning from Single Positive Labels](https://github.com/elijahcole/single-positive-multi-label))
